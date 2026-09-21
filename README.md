@@ -1,6 +1,6 @@
 # TP3 — Programação 1
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#tp3--programação-1)
+
 
 **CI1001 — Programação 1**
 **Departamento de Informática — UFPR**
@@ -11,7 +11,7 @@ Repositório destinado ao desenvolvimento e entrega do **Trabalho Prático 3 (TP
 
 ## 📚 Sobre o trabalho
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-sobre-o-trabalho)
+
 
 O TP3 consiste na implementação de um programa para manipulação de um **vetor dinâmico de ponteiros para números racionais**, utilizando a linguagem **C**.
 
@@ -36,7 +36,7 @@ Durante o desenvolvimento são trabalhados conceitos fundamentais de programaç�
 
 ## 📁 Estrutura do projeto
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-estrutura-do-projeto)
+
 
 ```text
 tp3/
@@ -75,7 +75,6 @@ tp3/
 
 ## ⚙️ Compilação
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#%EF%B8%8F-compilação)
 
 O programa pode ser compilado utilizando o compilador **GCC**:
 
@@ -93,7 +92,7 @@ Para executar:
 
 ## 🧪 Testes
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-testes)
+
 
 O projeto possui um script para executar os testes fornecidos junto ao trabalho.
 
@@ -115,7 +114,7 @@ O Valgrind permite verificar se toda a memória alocada dinamicamente foi corret
 
 ## 🧠 Principais operações
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-principais-operações)
+
 
 O programa realiza as seguintes operações:
 
@@ -135,7 +134,7 @@ O programa realiza as seguintes operações:
 
 ## 🛠️ Tecnologias utilizadas
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#%EF%B8%8F-tecnologias-utilizadas)
+
 
 * **C**
 * **GCC**
@@ -147,7 +146,7 @@ O programa realiza as seguintes operações:
 
 ## 🎯 Objetivos
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-objetivos)
+
 
 O desenvolvimento deste trabalho tem como objetivo aprofundar os conhecimentos de programação em C, especialmente em:
 
@@ -164,7 +163,7 @@ O desenvolvimento deste trabalho tem como objetivo aprofundar os conhecimentos d
 
 ## 👨‍💻 Autor
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-autor)
+
 
 **Victorino Afonso**
 
@@ -174,7 +173,7 @@ Estudante de **Ciência da Computação — UFPR**.
 
 ## 📌 Disciplina
 
-[svg](https://github.com/victorinoafonso/tp3-ci1001#-disciplina)
+
 
 **CI1001 — Programação 1**
 **Departamento de Informática — Universidade Federal do Paraná (UFPR)**
